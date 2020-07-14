@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/lao8n/Documents/JP Morgan/EPFL Scala/patmat/src/main/scala/patmat/Huffman.scala:35:45: not found: value G7ihKnawzXSLgo9j[0m
+[0m[[0m[31merror[0m] [0m[0m    Fork(left, right, chars(left) ::: chars(G7ihKnawzXSLgo9j), weight(left) + weight(right))[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

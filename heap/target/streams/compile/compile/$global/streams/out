@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m/home/lao8n/Documents/JP Morgan/EPFL Scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:79:5: not found: value h_combined[0m
+[0m[[0m[31merror[0m] [0m[0m    h_combined = meld(h1, h2)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/lao8n/Documents/JP Morgan/EPFL Scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:80:5: not found: value h_transferred[0m
+[0m[[0m[31merror[0m] [0m[0m    h_transferred = meld(deleteMin(h1), insert(findMind(h1), h2))[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/lao8n/Documents/JP Morgan/EPFL Scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:81:15: not found: value h_combined[0m
+[0m[[0m[31merror[0m] [0m[0m    heapEqual(h_combined, h_transferred),[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/lao8n/Documents/JP Morgan/EPFL Scala/quickcheck/src/main/scala/quickcheck/QuickCheck.scala:81:27: not found: value h_transferred[0m
+[0m[[0m[31merror[0m] [0m[0m    heapEqual(h_combined, h_transferred),[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
